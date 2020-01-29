@@ -6,7 +6,6 @@ e.g.:
 ```
 - master
   - README.md
-  - assets/ 
 - frontend-developer
   - README.MD
   - assets/
