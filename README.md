@@ -14,8 +14,8 @@ The user should be able to:
 
 - Search for a location, and see the thumbnails of the first 10 photos available for that location. Navigation should be available to get the next 10 photos
 - Perform a search either by entering latitude and longitude, or selecting a location from a preset list. Locations in the preset list should be represented by a human-readable name.
-- Add entries to the preset list by supplying a longitude, latitude and name. This list should be stored in the database
-- Add photos in a search result to a favourites list. This list should be stored in the database.
+- Add entries to the preset list by supplying a longitude, latitude and name. This list should be stored in the app's temporary storage or local storage.
+- Add photos in a search result to a favourites list. This list should be stored in the app's temporary storage or local storage.
 - View thumbnails of the photos in the favourite list
 
 **You do not need to provide individual user profiles, logins or store favourites on a per-user basis. Assume a single-user system.
